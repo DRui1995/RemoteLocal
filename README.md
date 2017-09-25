@@ -2,7 +2,7 @@
 *Invader Project*
 *25/09/2017*
 
-![Github Logo](docs/images/ironcat.png)
+![Github Logo](images/ironcat.png)
 
 Proin ut quam eros. Donec sed lobortis diam. Nulla nec odio lacus.
  Quisque porttitor egestas dolor in placerat. Nunc vehicula dapibus ipsum.
